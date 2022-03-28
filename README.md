@@ -1,2 +1,3 @@
 # test2igr1
-##opis mijego repo
+##opis mojego repo
+##tez cos dodaje
